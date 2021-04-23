@@ -20,7 +20,7 @@ I'm currently a PhD student at the Australian National University.
 
 Jiayu Yang, Jose M. Alvarez, Miaomiao Liu
 
-Self-supervised-CVP-MVSNet is the self-supervised version of CVP-MVSNet.
+Self-supervised-CVP-MVSNet is a self-supervised learning framework for MVS networks such as the CVP-MVSNet.
 It can achieve similar performance compared to the supervised CVP-MVSNet without requiring any ground-truth depth training data.
 
 \[[paper](https://arxiv.org/pdf/2104.02972)\] \[[code](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)\]
