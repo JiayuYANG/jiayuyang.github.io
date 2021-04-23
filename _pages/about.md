@@ -24,5 +24,5 @@ It can achieve performance similar to supervised CVP-MVSNet without requiring an
 CVP-MVSNet is a cost volume pyramid based depth inference framework for Multi-View Stereo. 
 It is compact, lightweight, fast in runtime and can  handle  high  resolution  images  to  obtain  high  quality depth map for 3D reconstruction.
 
-\[[paper](https://arxiv.org/abs/1912.08329)\] \[[code](https://github.com/JiayuYANG/CVP-MVSNet)\]\[[video](https://www.youtube.com/watch?v=lBFgNyz5JpU)\]
+\[[paper](https://arxiv.org/abs/1912.08329)\] \[[code](https://github.com/JiayuYANG/CVP-MVSNet)\] \[[video](https://www.youtube.com/watch?v=lBFgNyz5JpU)\]
 
