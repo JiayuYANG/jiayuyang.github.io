@@ -18,10 +18,10 @@ I'm currently a PhD student at the Australian National University.
 
 Jiayu Yang, Jose M. Alvarez, Miaomiao Liu
 
+<img src="/files/self_sup_cvp.png" width="200" align="right">
+
 Self-supervised-CVP-MVSNet is a self-supervised learning framework for MVS networks such as the CVP-MVSNet.
 It can achieve similar performance compared to the supervised CVP-MVSNet without requiring any ground-truth depth training data.
-
-<img src="/files/self_sup_cvp.png" width="200" align="right">
 
 \[[paper](https://arxiv.org/pdf/2104.02972)\] \[[code](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)\]
 
@@ -29,10 +29,10 @@ It can achieve similar performance compared to the supervised CVP-MVSNet without
 
 Jiayu Yang, Wei Mao, Jose M. Alvarez, Miaomiao Liu
 
+<img src="/files/cvp.png" width="200" align="right">
+
 CVP-MVSNet is a cost volume pyramid based depth inference framework for Multi-View Stereo. 
 It is compact, lightweight, fast in runtime and can  handle  high  resolution  images  to  obtain  high  quality depth map for 3D reconstruction.
-
-<img src="/files/cvp.png" width="200" align="right">
 
 \[[paper](https://arxiv.org/abs/1912.08329)\] \[[code](https://github.com/JiayuYANG/CVP-MVSNet)\] \[[video](https://www.youtube.com/watch?v=lBFgNyz5JpU)\]
 
