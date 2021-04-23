@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Jiayu Yang's academic homepage!
+I'm currently a PhD student at Australian National University.
