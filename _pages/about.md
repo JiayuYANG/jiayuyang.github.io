@@ -14,10 +14,11 @@ I'm currently a PhD student at the Australian National University.
 
 # Research
 
-### Self-supervised Learning of Depth Inference for Multi-view Stereo (CVPR 2021)
-Jiayu Yang, Jose M. Alvarez, Miaomiao Liu
+### Self-supervised Learning of Depth Inference for Multi-view Stereo (CVPR 2021) 
 
 <img src="/files/self_sup_cvp.png" width="200" align="right">
+
+Jiayu Yang, Jose M. Alvarez, Miaomiao Liu
 
 Self-supervised-CVP-MVSNet is the self-supervised version of CVP-MVSNet.
 It can achieve similar performance compared to the supervised CVP-MVSNet without requiring any ground-truth depth training data.
@@ -25,9 +26,10 @@ It can achieve similar performance compared to the supervised CVP-MVSNet without
 \[[paper](https://arxiv.org/pdf/2104.02972)\] \[[code](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)\]
 
 ### Cost Volume Pyramid Based Depth Inference for Multi-View Stereo (CVPR 2020) (Oral) 
-Jiayu Yang, Wei Mao, Jose M. Alvarez, Miaomiao Liu
 
 <img src="/files/cvp.png" width="200" align="right">
+
+Jiayu Yang, Wei Mao, Jose M. Alvarez, Miaomiao Liu
 
 CVP-MVSNet is a cost volume pyramid based depth inference framework for Multi-View Stereo. 
 It is compact, lightweight, fast in runtime and can  handle  high  resolution  images  to  obtain  high  quality depth map for 3D reconstruction.
