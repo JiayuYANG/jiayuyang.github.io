@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "Jiayu Yang"
+title: "Jiayu Yang"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# About Me
 
 I'm currently a PhD student at the Australian National University.
 
