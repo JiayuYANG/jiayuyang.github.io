@@ -12,6 +12,10 @@ redirect_from:
 
 I'm currently a PhD student at the Australian National University.
 
+# News
+
+2021-05-09 One paper accepred to TPAMI!
+
 # Research
 
 ### Self-supervised Learning of Depth Inference for Multi-view Stereo (CVPR 2021) 
